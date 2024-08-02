@@ -1,0 +1,12 @@
+*.out
+/logs
+/Dyke
+/dyke_dataset
+/RBDN
+/VMamba
+/Swin-Transformer
+/resize_inputs
+/slurm_jobs
+/real_dyke
+/output
+*.sh
