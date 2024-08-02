@@ -13,4 +13,4 @@
 
 conda activate strike
 
-python multi_param_training.py --network "swin" --imageSize 512 --strikeWeight 1.0 --openingWeight 1.0 --learningParam "strike" "opening"
+python multi_param_train.py --network "swin" --imageSize 512 --strikeWeight 1.0 --openingWeight 1.0 --learningParam "strike" "opening"
