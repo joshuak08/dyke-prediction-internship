@@ -13,4 +13,4 @@
 
 conda activate strike
 
-python multi_param_real_testing.py --network "swin" --lossFunction "L1" --imageSize 512 --learningParam "strike" "opening"
+python multi_param_real_testing.py --network "swin" --imageSize 512 --learningParam "strike" "opening"
